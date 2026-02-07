@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
 
   // IMPORTANT for GitHub Pages
-  base: "/Naveen-s-Portfolio/",
+  base: "/",
 
   css: {
     modules: {
